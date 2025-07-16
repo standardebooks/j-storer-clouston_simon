@@ -64,10 +64,10 @@
 		<meta property="file-as" refines="#transcriber-2">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-2">https://pgdp.net</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-        <dc:contributor id="producer-1">David Reimer</dc:contributor>
-        <meta property="file-as" refines="#producer-1">Reimer, David</meta>
-        <meta property="se:url.homepage" refines="#producer-1">https://github.com/dajare</meta>
-        <meta property="se:url.authority.nacoaf" refines="#producer-1">http://id.loc.gov/authorities/names/n92075987</meta>
+		<dc:contributor id="producer-1">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-1">http://id.loc.gov/authorities/names/n92075987</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
