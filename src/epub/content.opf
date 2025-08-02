@@ -35,14 +35,14 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh85037260</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">When the esteemed client of a Scottish lawyer is murdered, their small town is plunged into confused gossip.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;A Procurator Fiscal in Scotland needs to be a fairly hard-minded lawyer, being responsible for public prosecutions. Simon Rattar is an older lawyer of just this type. Along with holding the office Procurator Fiscal in his small town, he also serves as factor for the estate of the local laird whose wider clan is well represented in the vicinity. Naturally, when one of Rattar’s esteemed clients is murdered in strange circumstances, the local gossips struggle to make sense of the killing—and the police aren’t much the wiser, either.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/j-storer-clouston"&gt;J. Storer Clouston’s&lt;/a&gt; sleuth, called in when the slow-witted rural detective fails to make progress, is the monocled and gentlemanly F. T. Carrington, anticipating by some years the first appearance of that more famous and aristocratic monocle-wearer, &lt;a href="https://standardebooks.org/collections/lord-peter-wimsey"&gt;Lord Peter Wimsey&lt;/a&gt;.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/26306</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007654875</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/j-storer-clouston_simon</meta>
@@ -52,10 +52,11 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/J._Storer_Clouston</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n83124593</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Léon Bonnat</dc:contributor>
+		<meta property="file-as" refines="#artist">Bonnat, Léon</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Léon Joseph Florentin Bonnat</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/L%C3%A9on_Bonnat</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n96008046</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">D. Alexander</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Alexander, D.</meta>
