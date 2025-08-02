@@ -17,8 +17,8 @@ blockquote{
 }
 
 blockquote header{
+	font-variant: small-caps;
 	margin-bottom: 1em;
-	text-transform: uppercase;
 }
 
 blockquote header ~ p{
