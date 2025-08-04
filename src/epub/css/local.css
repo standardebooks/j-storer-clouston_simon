@@ -10,7 +10,7 @@
 }
 
 /* Style bq inscription in c22 */
-blockquote{
+#chapter-22 blockquote{
 	font-variant: small-caps;
 	margin-left: auto;
 	margin-right: auto;
